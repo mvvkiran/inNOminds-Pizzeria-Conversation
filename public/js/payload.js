@@ -41,7 +41,7 @@ var PayloadPanel = (function() {
 
   // Initialize the module
   function init() {
-    payloadUpdateSetup();
+    //payloadUpdateSetup();
   }
 
   // Toggle panel between being:
